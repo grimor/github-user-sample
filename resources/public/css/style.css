@@ -1,0 +1,11 @@
+/* some style */
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+#app {
+  margin: 20px 0;
+}
